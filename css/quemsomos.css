@@ -1,0 +1,98 @@
+
+body{
+    background: linear-gradient(#ACBB78, #F7F8F8);
+}
+/* ==== BANNER ==== */
+.texto{
+    width: 100%;
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.imagem{
+    border-radius: 85px;
+}
+
+.texto h1{
+    font-size: 35px;
+}
+
+.texto{
+    font-size: 21px;
+    color: white;
+    margin: 10px 0 40px;
+}
+/* ==== MAIN ==== */ 
+
+.conteudo{
+    margin: 0 auto;
+    margin-bottom: 2%;
+}
+
+.sobre-nos{
+    margin-left: 42%;
+    margin-top: 2%;
+    font-size: 40px;
+}
+
+.definicao{
+    padding-top: 2%;
+}
+
+.definicao2{
+    margin-top: 1%;
+}
+.paragrafo{
+    margin-left: 22.5%;
+    font-size: 18px;
+}
+
+.titulo{
+    margin-left: 22.5%;
+    margin-top: 2%;
+    font-size: 28px;
+    margin-bottom: 1%;
+}
+
+.definicao-time{
+    padding-top: 1%;
+}
+
+.img{
+    margin-top: 2%;
+    width: 26%;
+    height: 26%;
+    font-size: 18px;
+    margin-left: 20px;
+}
+
+.paragrafo2{
+    font-size: 20px;
+    margin-top: 0.5%;
+    color: #232526
+}
+
+.direcao{
+    display: flex;
+    margin-left: 21%;
+}
+
+.direcao h3{
+    color: black;
+    margin-top: 1%;
+}
+
+.direcao h5{
+    color: #232526;
+    margin-top: 1%;
+    font-size: 19px;
+}
+
+.img-direcao{
+    margin-left: 0;
+}
+

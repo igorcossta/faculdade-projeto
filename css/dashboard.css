@@ -1,0 +1,73 @@
+/*=========== RESET ==========*/
+* {
+    margin: 0;
+    padding: 0;
+    font-size: 100%;
+    border: none;
+    outline: none;
+    font-weight: 300;
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+}
+body{
+    background: linear-gradient(#F7F8F8, #ACBB78);
+}
+ /* ==== GRÁFICO 1 ==== */
+.container{
+    width: 100%;
+    padding-top: 10%;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.line-chart{
+    width: 100%;
+    margin: 50px;
+    padding: 5%;
+    background-color: white;
+    box-shadow: 2px 1px;
+    border-radius: 10px;
+    font-size: 30px;
+}
+
+/* ==== GRAFICO 2 E 3 ==== */
+
+.row{
+    display: flex;
+    margin-left: 2%;
+}
+
+.bar-chart{
+    width: 550px;
+    height: 60%;
+    margin: 50px;
+    padding: 3%;
+    background-color: white;
+    box-shadow: 2px 1px;
+    border-radius: 10px;
+    font-size: 30px;
+    
+}
+
+.bar-chart2{
+    width: 550px;
+    height: 60%;
+    margin: 50px;
+    padding: 3%;
+    background-color: white;
+    box-shadow: 2px 1px;
+    border-radius: 10px;
+    font-size: 30px;
+}
+
+/* ==== GRÁFICO 4 ==== */
+ .line-chart2{
+    width: 100%;
+    margin: 50px;
+    padding: 5%;
+    background-color: white;
+    box-shadow: 2px 1px;
+    border-radius: 10px;
+    font-size: 30px;
+}
